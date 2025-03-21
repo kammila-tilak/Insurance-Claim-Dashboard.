@@ -19,16 +19,19 @@ This project focuses on analyzing insurance customer feedback data to extract me
 ---
 
 ## 📊 Dashboard Visuals
-### 1. Main Dashboard ![Main Dashboard](./Main%20Dashboard.png)
+### 1. Main Dashboard 
+![image-alt](https://github.com/kammila-tilak/Insurance-Claim-Dashboard./blob/506aa2f7947f2b723513885c3b1019047d37d3ec/Main%20Dashboard.png)
 - Overview of total claim amount, coverage amount, and premium amount.
 - Count of active and inactive claim statuses.
 - Claims distribution by age group and policy type.
 
-### 2. Feedback Count Analysis ![Feedback Count](./Feddback%20Count.png)
+### 2. Feedback Count Analysis 
+![Feedback Count](https://github.com/kammila-tilak/Insurance-Claim-Dashboard./blob/506aa2f7947f2b723513885c3b1019047d37d3ec/Feedback%20Count.png)
 - Analysis of customer feedback distribution.
 - Identification of key feedback categories and their frequencies.
 
-### 3. Detailed Table View ![Table View](./Table.png)
+### 3. Detailed Table View 
+![Table View](https://github.com/kammila-tilak/Insurance-Claim-Dashboard./blob/506aa2f7947f2b723513885c3b1019047d37d3ec/Table.png)
 - Detailed claim status by policy type.
 - Filtered insights to analyze claim outcomes effectively.
 
@@ -54,16 +57,7 @@ This project focuses on analyzing insurance customer feedback data to extract me
 
 ---
 
-## 🗂️ Project Structure
-- `InsuranceData.csv`: Raw dataset used for analysis.
-- `Main Dashboard.png`: Snapshot of the main dashboard.
-- `Feedback Count.png`: Visualization of feedback count.
-- `Table.png`: Detailed view of claim status by policy type.
-
----
-
-## 📬 Contact
-For any queries or suggestions, feel free to reach out!
-
----
-
+## Contact  
+For any queries or suggestions, feel free to reach out:  
+- **Email:** [kammilatilak@gmail.com](mailto:kammilatilak@gmail.com)  
+- **LinkedIn:** [Tilak Kammila](https://www.linkedin.com/in/tilak-kammila)  
